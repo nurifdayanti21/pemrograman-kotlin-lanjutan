@@ -5,10 +5,32 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="eacec84c-8fdf-4342-9ad0-6c33d7d667c2" name="Changes" comment="upload starter project">
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/Map.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/Ranges.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/program1.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/program2.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/ArgumendefaultFungsi.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/Break&amp;Continue.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/Fungsi Math.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/PenangananEkspresi.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/When.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/breakDanContinueLabel.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/ekspresiLmbdas.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/elvisoperator.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/for_loop.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/for_loop_kalkulatorEksponensial.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/for_loop_perkalian.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/fungsiTanpaNilaikembali.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/fungsidengannilaikembali.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/fungsiekspresitunggal.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/kalkulator sederhana menggunakan when.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/kalkulatorsederhana.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/menggunakanpairsebagainilaikembali.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/menghitungAkarKuadrat.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/menghitungluasdankelilingPP.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/null-safety.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/operator!!.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/pemeriksaankondisiull.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/prmmanggilanYangAman.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/return.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/while-loopKalkulator.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/whiledanDo-whileloop.kt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -52,6 +74,7 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Kotlin.ArgumendefaultFungsiKt.executor": "Run",
     "Kotlin.Array2dimensiKt.executor": "Run",
     "Kotlin.ArrayListOfKt.executor": "Run",
     "Kotlin.ArrayMethodeKt.executor": "Run",
@@ -59,49 +82,74 @@
     "Kotlin.ArrayOfKt.executor": "Run",
     "Kotlin.ArrayStandarKt.executor": "Run",
     "Kotlin.ArrayTipe_PrimitifKt.executor": "Run",
+    "Kotlin.BreakDanContinueLabelKt.executor": "Run",
+    "Kotlin.Break_ContinueKt.executor": "Run",
     "Kotlin.ContohCollectionsKt.executor": "Run",
+    "Kotlin.ElvisoperatorKt.executor": "Run",
+    "Kotlin.For_loopKt.executor": "Run",
+    "Kotlin.For_loop_kalkulatorEksponensialKt.executor": "Run",
+    "Kotlin.For_loop_perkalianKt.executor": "Run",
+    "Kotlin.FungsiTanpaNilaikembaliKt.executor": "Run",
+    "Kotlin.Fungsi_MathKt.executor": "Run",
+    "Kotlin.FungsidengannilaikembaliKt.executor": "Run",
+    "Kotlin.FungsiekspresitunggalKt.executor": "Run",
+    "Kotlin.Kalkulator_sederhana_menggunakan_whenKt.executor": "Run",
+    "Kotlin.KalkulatorsederhanaKt.executor": "Run",
     "Kotlin.ListOfKt.executor": "Run",
     "Kotlin.MapKt.executor": "Run",
+    "Kotlin.MenggunakanpairsebagainilaikembaliKt.executor": "Run",
+    "Kotlin.MenghitungAkarKuadratKt.executor": "Run",
+    "Kotlin.MenghitungluasdankelilingPPKt.executor": "Run",
     "Kotlin.MutableListKt.executor": "Run",
+    "Kotlin.Null_safetyKt.executor": "Run",
+    "Kotlin.Operator__Kt.executor": "Run",
+    "Kotlin.PemeriksaankondisiullKt.executor": "Run",
+    "Kotlin.PenangananEkspresiKt.executor": "Run",
+    "Kotlin.PrmmanggilanYangAmanKt.executor": "Run",
     "Kotlin.Program1Kt.executor": "Run",
+    "Kotlin.Program2Kt.executor": "Run",
     "Kotlin.RangesKt.executor": "Run",
+    "Kotlin.ReturnKt.executor": "Run",
     "Kotlin.SetKt.executor": "Run",
+    "Kotlin.WhenKt.executor": "Run",
+    "Kotlin.While_loopKalkulatorKt.executor": "Run",
+    "Kotlin.WhiledanDo_whileloopKt.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "master",
     "kotlin-language-version-configured": "true"
   }
 }]]></component>
-  <component name="RunManager" selected="Kotlin.Program2Kt">
-    <configuration name="MapKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="MapKt" />
+  <component name="RunManager" selected="Kotlin.EkspresiLmbdasKt">
+    <configuration name="ArgumendefaultFungsiKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ArgumendefaultFungsiKt" />
       <module name="PemrogramanKotlinLanjutan" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Program1Kt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Program1Kt" />
+    <configuration name="EkspresiLmbdasKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="EkspresiLmbdasKt" />
       <module name="PemrogramanKotlinLanjutan" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Program2Kt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Program2Kt" />
+    <configuration name="FungsidengannilaikembaliKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="FungsidengannilaikembaliKt" />
       <module name="PemrogramanKotlinLanjutan" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="RangesKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="RangesKt" />
+    <configuration name="FungsiekspresitunggalKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="FungsiekspresitunggalKt" />
       <module name="PemrogramanKotlinLanjutan" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="SetKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="SetKt" />
+    <configuration name="MenggunakanpairsebagainilaikembaliKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="MenggunakanpairsebagainilaikembaliKt" />
       <module name="PemrogramanKotlinLanjutan" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -109,11 +157,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Kotlin.Program2Kt" />
-        <item itemvalue="Kotlin.Program1Kt" />
-        <item itemvalue="Kotlin.RangesKt" />
-        <item itemvalue="Kotlin.MapKt" />
-        <item itemvalue="Kotlin.SetKt" />
+        <item itemvalue="Kotlin.EkspresiLmbdasKt" />
+        <item itemvalue="Kotlin.ArgumendefaultFungsiKt" />
+        <item itemvalue="Kotlin.FungsiekspresitunggalKt" />
+        <item itemvalue="Kotlin.MenggunakanpairsebagainilaikembaliKt" />
+        <item itemvalue="Kotlin.FungsidengannilaikembaliKt" />
       </list>
     </recent_temporary>
   </component>
@@ -142,7 +190,15 @@
       <option name="project" value="LOCAL" />
       <updated>1725878072596</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="upload starter project">
+      <option name="closed" value="true" />
+      <created>1725884635007</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1725884635007</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
